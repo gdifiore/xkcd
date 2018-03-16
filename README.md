@@ -1,10 +1,10 @@
 # xkcd
  xkcd - tools for xkcd comics
 
-    quick_info.py
+    src/quick_info.py
 Grab's title and alt for the latest xkcd comic.
 
-    download.py
+    src/download.py
 Download latest xkcd as `xkcd_latest.png` into current directory.
 
 ## TODO
