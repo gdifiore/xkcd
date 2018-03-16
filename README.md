@@ -10,5 +10,4 @@ Download latest xkcd as `xkcd_latest.png` into current directory.
 ## TODO
 
 - move processes into different functions
-- add more commenting
 - specify xkcd to download
