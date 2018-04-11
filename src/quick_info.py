@@ -7,8 +7,11 @@
 import urllib.request
 import json
 
-url = "https://xkcd.com/info.0.json" # url is link to json to latest xkcd
+url = "https://xkcd.com/info.0.json" # url is link to json of latest xkcd
 response = urllib.request.urlopen(url) # open url with urllib.request
 data = json.loads(response.read()) # load and parse json
 
-print(data['title'] + ": " ,data['alt']) # grab title + alt data form parsed json
+title = data['title'] 
+alt = data['alt']
+
+print(title + ": " + alt) # grab title + alt data from parsed json
