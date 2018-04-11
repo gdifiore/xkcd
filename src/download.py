@@ -12,7 +12,7 @@ response = urllib.request.urlopen(url) # open url with urllib.request
 data = json.loads(response.read()) # load and parse json
 
 num = data['num'] # grab xkcd number from parsed json
-img_url = data['img'] # grab img link form parsed json
+img_url = data['img'] # grab img link from parsed json
 
 
 print(img_url) # print url to image
