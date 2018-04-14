@@ -12,5 +12,5 @@ Check the number and title of the latest xkcd.
 
 ## TODO
 
-- move processes into different functions
-- specify xkcd to download
+- move processes into different functions\
+- download comics into a folder
