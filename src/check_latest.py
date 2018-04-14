@@ -14,4 +14,4 @@ data = json.loads(response.read()) # load and parse json
 num = data['num'] # grab xkcd number from parsed json
 title = data['title'] # grab title from parsed json
 
-print("Latest xkcd is number " + str(num) + ": " + title) # grab title + alt data from parsed json
+print("Latest xkcd is number " + str(num) + ": " + title) # print number and title of latest xkcd
