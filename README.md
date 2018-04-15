@@ -1,6 +1,10 @@
 # xkcd
  xkcd - tools for xkcd comics
 
+## Requirements 
+- Python 3
+
+## Scripts Included
     src/quick_info.py
 Grab's title and alt for specified xkcd comic.
 
