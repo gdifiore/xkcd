@@ -1,7 +1,7 @@
 #
 # quick_info.py - xkcd
 #
-# (c)2018 gdifiore <difioregabe@gmail.com> 
+# (c) 2018 gdifiore <difioregabe@gmail.com> 
 #
 
 import urllib.request
