@@ -1,5 +1,6 @@
-# xkcd
- xkcd - tools for xkcd comics
+# xkcd 
+ xkcd - tools for xkcd comics <br> <br>
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Requirements 
 - Python 3
