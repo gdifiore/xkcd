@@ -1,6 +1,5 @@
 # xkcd 
- xkcd - tools for xkcd comics <br> <br>
- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+ xkcd - tools for xkcd comics
 
 ## Requirements 
 - Python 3
@@ -14,3 +13,8 @@ Download specified xkcd as `xkcd_[number].png` into current directory.
 
     src/check_latest.py
 Check the number and title of the latest xkcd.
+
+## Credits
+The [xkcd]() comic is created by the talented [Randall Munroe](https://twitter.com/xkcd) (or his more interesting [Wikipedia page](https://en.wikipedia.org/wiki/Randall_Munroe)). 
+
+I only made the scripts.
