@@ -15,6 +15,6 @@ Download specified xkcd as `xkcd_[number].png` into current directory.
 Check the number and title of the latest xkcd.
 
 ## Credits
-The [xkcd]() comic is created by the talented [Randall Munroe](https://twitter.com/xkcd) (or his more interesting [Wikipedia page](https://en.wikipedia.org/wiki/Randall_Munroe)). 
+The [xkcd](https://xkcd.com/) comic is created by the talented [Randall Munroe](https://twitter.com/xkcd) (or his more interesting [Wikipedia page](https://en.wikipedia.org/wiki/Randall_Munroe)). 
 
 I only made the scripts.
