@@ -13,6 +13,22 @@ Download specified xkcd as `xkcd_[number].png` into current directory.
 
     src/check_latest.py
 Check the number and title of the latest xkcd.
+___
+    lib/libxkcd.py
+Functions to perform functions with the xkcd JSON api
+
+### Examples
+
+    title = name("69")
+Set `title` to the name of the 69th xkcd
+    dl("69", "nice")
+Download the 69th xkcd as `nice.png` (.png is added in the function)
+    num =  latest_num()
+Set `num` to the number of the latest xkcd
+    
+    title =  latest_title()
+Set `title` to the title of the latest xkcd
+___
 
 ## Credits
 The [xkcd](https://xkcd.com/) comic is created by the talented [Randall Munroe](https://twitter.com/xkcd) (or his more interesting [Wikipedia page](https://en.wikipedia.org/wiki/Randall_Munroe)). 
