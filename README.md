@@ -21,8 +21,10 @@ Functions to perform functions with the xkcd JSON api
 
     title = name("69")
 Set `title` to the name of the 69th xkcd
+
     dl("69", "nice")
 Download the 69th xkcd as `nice.png` (.png is added in the function)
+
     num =  latest_num()
 Set `num` to the number of the latest xkcd
     
