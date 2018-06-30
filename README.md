@@ -13,7 +13,9 @@ Download specified xkcd as `xkcd_[number].png` into current directory.
 
     src/check_latest.py
 Check the number and title of the latest xkcd.
-___
+
+# libxkcd
+
     lib/libxkcd.py
 Functions to perform functions with the xkcd JSON api
 
